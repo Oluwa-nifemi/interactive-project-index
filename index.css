@@ -37,6 +37,7 @@ nav{
 
 .nav__logo{
   font-size: 16px;
+  text-decoration: none;
 }
 
 .links{
